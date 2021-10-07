@@ -13,3 +13,7 @@ body
         font-family: sans-serif;
         font-size: 160%;
       }
+    img
+    {
+        width: 30%
+    }
